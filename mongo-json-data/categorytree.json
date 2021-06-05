@@ -1,0 +1,231 @@
+{
+	"nodeId": -1,
+	"name": "E-Commerece",
+	"treeId": 1001,
+	"parentId": [],
+	"childrens": [
+		{
+			"nodeId": 0,
+			"name": "Women",
+			"treeId": 1001,
+			"parentId": [
+				-1
+			],
+			"childrens": [
+				{
+					"nodeId": 2,
+					"name": "Clothing",
+					"treeId": 1001,
+					"parentId": [
+						0
+					],
+					"childrens": [
+						{
+							"nodeId": 4,
+							"name": "Dress",
+							"treeId": 1001,
+							"parentId": [
+								2
+							],
+							"childrens": [
+								{
+									"nodeId": 5,
+									"name": "Casual Dress",
+									"treeId": 1001,
+									"parentId": [
+										4
+									],
+									"childrens": [
+										{}
+									]
+								},
+								{
+									"nodeId": 6,
+									"name": "Party Dress",
+									"treeId": 1001,
+									"parentId": [
+										4
+									],
+									"childrens": [
+										{}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"nodeId": 3,
+					"name": "T-Shirts",
+					"treeId": 1001,
+					"parentId": [
+						0
+					],
+					"childrens": [
+						{
+							"nodeId": 7,
+							"name": "Printed - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								3
+							],
+							"childrens": [
+								{}
+							]
+						},
+						{
+							"nodeId": 8,
+							"name": "Casual - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								3
+							],
+							"childrens": [
+								{}
+							]
+						},
+						{
+							"nodeId": 9,
+							"name": "Plain - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								3
+							],
+							"childrens": [
+								{}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"nodeId": 1,
+			"name": "Men",
+			"treeId": 1001,
+			"parentId": [
+				-1
+			],
+			"childrens": [
+				{
+					"nodeId": 10,
+					"name": "Footwear",
+					"treeId": 1001,
+					"parentId": [
+						-1
+					],
+					"childrens": [
+						{
+							"nodeId": 13,
+							"name": "Branded",
+							"treeId": 1001,
+							"parentId": [
+								10
+							],
+							"childrens": [
+								{}
+							]
+						},
+						{
+							"nodeId": 14,
+							"name": "Non Branded",
+							"treeId": 1001,
+							"parentId": [
+								10
+							],
+							"childrens": [
+								{}
+							]
+						}
+					]
+				},
+				{
+					"nodeId": 11,
+					"name": "T-Shirts",
+					"treeId": 1001,
+					"parentId": [
+						-1
+					],
+					"childrens": [
+						{
+							"nodeId": 15,
+							"name": "Printed - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								11
+							],
+							"childrens": [
+								{}
+							]
+						},
+						{
+							"nodeId": 16,
+							"name": "Casual - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								11
+							],
+							"childrens": [
+								{}
+							]
+						},
+						{
+							"nodeId": 17,
+							"name": "Plain - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								11
+							],
+							"childrens": [
+								{}
+							]
+						}
+					]
+				},
+				{
+					"nodeId": 12,
+					"name": "Shirts",
+					"treeId": 1001,
+					"parentId": [
+						-1
+					],
+					"childrens": [
+						{
+							"nodeId": 18,
+							"name": "Printed - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								12
+							],
+							"childrens": [
+								{}
+							]
+						},
+						{
+							"nodeId": 19,
+							"name": "Casual - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								12
+							],
+							"childrens": [
+								{}
+							]
+						},
+						{
+							"nodeId": 20,
+							"name": "Plain - T-Shirts",
+							"treeId": 1001,
+							"parentId": [
+								12
+							],
+							"childrens": [
+								{}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
